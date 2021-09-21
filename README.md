@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @milapradia, M.Tech CS at IIT Kharagpur. 
 - 👀 I’m interested in Data Structures, Algorithms, Machine Learning, Deep Learning, Natural Language Processing, Distributed Systems. 
 - 🌱 I’m currently learning Scalable System Design, Object Oriented Design, Backend Systems
-- 💞️ I’m looking to collaborate on ML, DL, NLP, Computer Vision or anything that involves computer science and coding. 
+- 💞️ I’m looking to collaborate on Backend Systems( JAVA Preferred ), ML, DL, NLP, Computer Vision or anything that involves computer science and coding. 
 - 📫 How to reach me @ milapradia@gmail.com
 
 <!---
