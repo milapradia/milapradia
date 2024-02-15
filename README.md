@@ -3,11 +3,10 @@
 - 👀 I’m interested in Data Structures, Algorithms, Software Development, Machine Learning, Deep Learning, Natural Language Processing, Distributed Systems. 
 - 🌱 I’m currently learning Scalable System Design, Object Oriented Design, Backend Systems, Microservices Architecture. 
 - 💞️ I’m looking to collaborate on Backend Systems, Databases, ML, DL, NLP, Computer Vision or anything that involves computer science and coding. 
-- 📫 How to reach me @ milapradia@gmail.com
+- 📫 Feel free to drop a note @ milapradia@gmail.com
 - 💻 Top 9% in LeetCode: https://leetcode.com/milapradia/
 - 🤝 LinkedIn: https://www.linkedin.com/in/milapradia/
 - If you are hiring, check out my [resume](https://drive.google.com/file/d/1JAtVqSyn1_SaM0MbCiGSD_hkt53iaVIG/view) - https://github.com/milapradia/milapradia/blob/main/Milap_Software_Developer_Resume.pdf
-- 🇨🇦 I am a Canada permanent resident, which enables me to work legally in Canada without sponsorship.
 
 <!---
 milapradia/milapradia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
