@@ -6,7 +6,7 @@
 - 📫 Feel free to drop a note @ milapradia@gmail.com
 - 💻 Top 9% in LeetCode: https://leetcode.com/milapradia/
 - 🤝 LinkedIn: https://www.linkedin.com/in/milapradia/
-- If you are hiring, check out my [resume](https://drive.google.com/file/d/1JAtVqSyn1_SaM0MbCiGSD_hkt53iaVIG/view) - https://github.com/milapradia/milapradia/blob/main/Milap_Software_Developer_Resume.pdf
+- If you are hiring, check out my [resume](https://drive.google.com/file/d/14WB2XXH3Xe34ihjR-503P50i71cF8UMR/view)
 
 <!---
 milapradia/milapradia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
