@@ -7,7 +7,7 @@
 - 📫 Feel free to drop a note @ milapradia@gmail.com
 - 💻 Top 9% in LeetCode: https://leetcode.com/milapradia/
 - 🤝 LinkedIn: https://www.linkedin.com/in/milapradia/
-- 🕵 If you are hiring, check out my [resume](https://drive.google.com/file/d/14WB2XXH3Xe34ihjR-503P50i71cF8UMR/view)
+- 🕵 If you are hiring, check out my [resume](https://drive.google.com/file/d/1gK9UjPW759Y0j1Bcg6Zc6H_huPkpbEU2/view)
 
 <!---
 milapradia/milapradia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
