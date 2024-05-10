@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @milapradia
+- 👋 Hi, I’m Milap
 - 👨‍💻 Backend developer @ fabric, Inc. - developing API first scalable and modular commerce platform using modern tech stack - JAVA, Spring, AWS, MongoDB, Python, Apache Spark, Messaging queue, Spring Batch, Redis
 - 🎓 Masters in Computer Science from IIT Kharagpur ( top 100 universities of the world ). 
 - 👀 I’m interested in Data Structures, Algorithms, Software Development, Distributed Systems, Event driven architecture
